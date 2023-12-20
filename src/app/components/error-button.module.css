@@ -1,0 +1,14 @@
+.errorButton {
+    font-size: 16px;
+    padding: 7px;
+    border-radius: 10px;
+    border: 1px solid #415377;
+    color: #FFFFFF;
+    background-color: #112440;
+}
+
+.errorButton:hover {
+    border: 1px solid #14329F;
+    background-color: #415377;
+    cursor: pointer;
+}

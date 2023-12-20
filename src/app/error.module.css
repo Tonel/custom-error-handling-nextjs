@@ -1,0 +1,30 @@
+.error {
+    text-align: center;
+    margin: auto;
+}
+
+.oops {
+    font-size: 50px;
+    font-weight: bold;
+    margin-bottom: 15px;
+}
+
+.message {
+    font-size: 30px;
+    margin-bottom: 30px;
+}
+
+.retryButton {
+    font-size: 16px;
+    padding: 7px;
+    border-radius: 10px;
+    border: 1px solid #415377;
+    color: #FFFFFF;
+    background-color: #112440;
+}
+
+.retryButton:hover {
+    border: 1px solid #14329F;
+    background-color: #415377;
+    cursor: pointer;
+}
